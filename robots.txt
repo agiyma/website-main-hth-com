@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agiyma.github.io/website-main-hth-com/sitemap.xml
